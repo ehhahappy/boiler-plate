@@ -1,6 +1,5 @@
 const { User } = require('../models/User');
 
-
 let auth = (req, res, next) => {
     // 인증 처리를 하는 곳
 
