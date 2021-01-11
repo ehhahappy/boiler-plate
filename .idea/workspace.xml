@@ -3,8 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2604914e-b0c7-4fa8-adc8-59226cfc5139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/key.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/key.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prod.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/config/prod.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/User.js" beforeDir="false" afterPath="$PROJECT_DIR$/server/models/User.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Replika_KR/Replika-KR-Backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,6 +41,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ehhah\dev\js\boiler-plate\server" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,6 +60,9 @@
       <workItem from="1609146150697" duration="636000" />
       <workItem from="1609315428193" duration="2004000" />
       <workItem from="1609815248338" duration="11804000" />
+      <workItem from="1609902795005" duration="4530000" />
+      <workItem from="1609910630417" duration="13000" />
+      <workItem from="1609928958668" duration="22000" />
     </task>
     <servers />
   </component>
@@ -62,5 +74,21 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1039" y="502" key="#com.intellij.fileTypes.FileTypeChooser/2560.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609316513433" />
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609906009981">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="446" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609906009981" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1609928978682">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609928978682" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1609908057884">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609908057884" />
+    <state x="972" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1609928961046">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="972" y="524" key="com.intellij.ide.util.TipDialog/2560.360.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1609928961046" />
   </component>
 </project>
