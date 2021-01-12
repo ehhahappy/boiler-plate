@@ -23,7 +23,7 @@ function App() {
           of them to render at a time
         */}
         <Switch>
-          <Route exact path="/" component={LandingPage} />
+          <Route exact path="/" component={LandingPage} /> 
           <Route exact path="/login" component={LoginPage} />
           <Route exact path="/register" component={RegisterPage} />
         </Switch>
